@@ -1,0 +1,19 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+ul {
+
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+ul li a {
+text-decoration: none;
+
+}

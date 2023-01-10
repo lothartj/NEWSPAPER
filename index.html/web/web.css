@@ -1,0 +1,17 @@
+*{margin: 0;
+    padding: 0;
+}
+
+.h1 {
+    width: 10%;
+    height: 10;
+}
+
+
+.paragraph {
+    width: 10px;
+    height: 20px;
+    border-top-left-radius: 20%;
+
+
+}
